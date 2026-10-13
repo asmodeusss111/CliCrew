@@ -4,6 +4,8 @@ CliCrew — приложение для работы нескольких CLI-а
 
 Сайт: [clicrew.world](https://clicrew.world/)
 
+[Проекты сообщества](https://clicrew.world/#gallery) · [Доска развития](https://clicrew.world/#roadmap) · [Как предложить проект или функцию](COMMUNITY.md)
+
 ## Скачать
 
 Установщик Windows: [CliCrew 0.1.17](https://github.com/asmodeusss111/CliCrew/releases/tag/v0.1.17). Для работы нужны установленные CLI и аккаунты соответствующих сервисов.
